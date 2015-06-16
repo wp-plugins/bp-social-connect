@@ -53,10 +53,11 @@ Visit the <a href="https://vibethemes.com/">VibeThemes</a> for documentation, su
 
 = Configuration =
 
-* Facebook : Login to <a href="">Facebook Developers</a> and create a new App for web. Note the App ID and APP Secret anf fill in BP Social connect - Facebook section
-* Twitter : Login to <a href="">Twitter Developers</a> and create a new App for web. Note the App ID and APP Secret anf fill in BP Social connect - Twitter section
-* Google : Login to <a href="">Google APIs Console </a> and create a new App for web. Note the Client ID and Client Secret anf fill in BP Social connect - Google section
+* Facebook : Login to <a href="http://developers.facebook.com">Facebook Developers</a> and create a new App for web. Note the App ID and APP Secret anf fill in BP Social connect - Facebook section
+* Twitter : Login to <a href="http://dev.twitter.com">Twitter Developers</a> and create a new App for web. Note the App ID and APP Secret anf fill in BP Social connect - Twitter section
+* Google : Login to <a href="http://console.google.com/apis">Google APIs Console </a> and create a new App for web. Note the Client ID and Client Secret anf fill in BP Social connect - Google section
 
+Refer <a href="http://support.vibethemes.com/solution/articles/1000187238-bp-social-connect-integration-with-wplms">Detailed Tutorial on how to setup BP Social connect</a>
 == Frequently Asked Questions ==
 
 = Can I use my existing WordPress theme? =
